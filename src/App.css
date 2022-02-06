@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Neonderthaw&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap');
+
+
+body {
+  background-image: url("background.jpg");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+
+.header {
+  display: block;
+  margin: auto;
+  text-align: center;
+  font-family: 'Neonderthaw', cursive;
+  margin-top: 20px;
+  font-size: 100px;
+  color: white;
+}
+
+.todo-item {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 30px;
+  position: relative;
+  
+}
+
+.add-button, .todo-button {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 30px;
+  margin-bottom: 20px;
+  
+}
+
+.todo-form {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 20px;
+  color:ivory
+  
+}
+
+.input-text {
+  width: 60%;
+}
+
